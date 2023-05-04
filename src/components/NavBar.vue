@@ -22,7 +22,7 @@
 </template>
   
 <script>
-import { effect } from 'vue';
+
 
 export default {
     mounted() {
